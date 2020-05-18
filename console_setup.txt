@@ -1,0 +1,3 @@
+cd C:\Users\meikh\Dropbox\Programming Data Science\PDS_Herber
+conda activate PDS_Herber
+jupyter notebook
