@@ -123,3 +123,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My exclusions
+Neues Textdokument.txt
+console_setup.txt
+Git commands.txt
+install_nextbike.txt
+export_environment.txt
+.csv
+plz-gebiete/
+.h5
+.pkl
