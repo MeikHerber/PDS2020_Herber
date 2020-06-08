@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ffe920-3174-443a-8e7e-7a49efba59b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/01 - Exploration, Dataset Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/01 - Exploration, Dataset Preprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/02 - Descriptive Statistics, Visualizations, Data Cleaning.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/03 - Regression Task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/03 - Regression Task.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter Notebook/04 - Classification Task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter Notebook/04 - Classification Task.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neues Textdokument.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/console_setup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/input/dortmund_reduced.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextbike/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nextbike/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextbike/input_output/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/nextbike/input_output/input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextbike/input_output/output.py" beforeDir="false" afterPath="$PROJECT_DIR$/nextbike/input_output/output.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/performance_classification.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/performance_classification.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/performance_regression.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/performance_regression.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,10 +65,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588609443641" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590926858039">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591390745830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590926858039" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591390745830" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590839707869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
